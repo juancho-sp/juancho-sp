@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @juancho-sp
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning software programming abilities
+- 💞️ I’m looking to collaborate on nothing special
+- 📫 Send me a email to ing.juancho.sp@gmail.com
+- 😄 Pronouns: Juancho
+- ⚡ Fun fact: Magic Gathering player
