@@ -1,9 +1,10 @@
 HELLO,
 
-My name is Juan David Rojas I am product design engineer and software developer,
-i have more than 10 years of experience in product design for manufacture companies
-in Colombia, in this github page i share my personal projects with you.
+You can call me Juancho, I am product design engineer and software developer,
+in this github page i share my personal projects with you.
 
 -----------------------------------------------
 ### Don't forget the mind Don't have limits ###
 -----------------------------------------------
+
+https://juancho-sp.github.io/juancho-sp/
